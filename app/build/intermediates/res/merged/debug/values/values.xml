@@ -283,7 +283,11 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_cad_guia">Cad_guia</string>
+    <string name="title_activity_cad_turista">Cad_turista</string>
     <string name="title_activity_guia_login">GuiaLogin</string>
+    <string name="title_activity_login_guia">LoginGuia</string>
+    <string name="title_activity_login_turista">LoginTurista</string>
     <string name="title_activity_turista_login">TuristaLogin</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

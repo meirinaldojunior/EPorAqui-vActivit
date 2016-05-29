@@ -12,4 +12,6 @@
     tools:context="com.meirinaldojunior.eporaqui_vactivit.cadastros.Cad_guia"
     tools:showIn="@layout/activity_cad_guia">
 
+
+
 </RelativeLayout>

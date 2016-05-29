@@ -21,8 +21,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.meirinaldojunior.eporaqui_vactivit.GuiaLogin" />
-        <activity android:name="com.meirinaldojunior.eporaqui_vactivit.TuristaLogin" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.LoginTurista"
+            android:label="@string/title_activity_login_turista"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.LoginGuia"
+            android:label="@string/title_activity_login_guia"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.cadastros.Cad_guia"
+            android:label="@string/title_activity_cad_guia"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.cadastros.Cad_turista"
+            android:label="@string/title_activity_cad_turista"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
