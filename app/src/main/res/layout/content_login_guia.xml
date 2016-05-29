@@ -1,87 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.meirinaldojunior.eporaqui_vactivit.LoginGuia"
     tools:showIn="@layout/activity_login_guia">
 
-    <GridLayout
-        android:layout_width="match_parent"
+    <WebView
+        android:layout_width="fill_parent"
         android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:rowCount="12">
+        android:id="@+id/webView"
+        android:layout_row="18"
+        android:layout_column="4"
+        android:foregroundGravity="top" />
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="80px"
-            android:layout_row="0"
-            android:layout_column="10" />
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/text_credenciamento"
-            android:layout_row="1"
-            android:layout_column="10"
-            android:hint="Número de credenciamento"/>
-
-        <EditText
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/text_data_nasc"
-            android:layout_row="4"
-            android:layout_column="10"
-            android:hint="Data de Nascimento" />
-
-        <GridLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_row="10"
-            android:layout_column="10"
-            android:rowCount="2"
-            android:columnCount="10">
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Cadastro"
-                android:id="@+id/bt_cadastro"
-                android:layout_row="1"
-                android:layout_column="7"
-                android:onClick="chamarCadastro"/>
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Esqueci a senha"
-                android:id="@+id/bt_esqueciSenha"
-                android:layout_row="1"
-                android:layout_column="8" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Entrar"
-                android:id="@+id/bt_entrar"
-                android:layout_row="1"
-                android:layout_column="9" />
-        </GridLayout>
-
-    </GridLayout>
-
-    <Space
-        android:layout_width="100px"
-        android:layout_height="20px"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentTop="true" />
-
-</RelativeLayout>
+</LinearLayout>

@@ -1,13 +1,4 @@
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$mipmap$override.class
 CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$string$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$layout$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
 CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$styleable$override.class
 CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$style$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$id$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$layout$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$integer$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/Inicial$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
-CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/R$layout$override.class

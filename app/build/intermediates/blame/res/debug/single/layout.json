@@ -1,15 +1,15 @@
 [
     {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/activity_login_guia.xml",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/activity_login_guia.xml"
+    },
+    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_subheader.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_header.xml"
-    },
-    {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/activity_login_guia.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/activity_login_guia.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -74,10 +74,6 @@
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/content_cad_guia.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/content_cad_guia.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -152,16 +148,8 @@
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/activity_cad_turista.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/activity_cad_turista.xml"
-    },
-    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/content_cad_turista.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/content_cad_turista.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -176,12 +164,12 @@
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/content_login_turista.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/content_login_turista.xml"
+    },
+    {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -198,10 +186,6 @@
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/activity_cad_guia.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/layout/activity_cad_guia.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",

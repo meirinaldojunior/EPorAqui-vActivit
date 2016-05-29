@@ -8,6 +8,10 @@
         android:minSdkVersion="16"
         android:targetSdkVersion="23" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
@@ -29,14 +33,6 @@
         <activity
             android:name="com.meirinaldojunior.eporaqui_vactivit.LoginGuia"
             android:label="@string/title_activity_login_guia"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.meirinaldojunior.eporaqui_vactivit.cadastros.Cad_guia"
-            android:label="@string/title_activity_cad_guia"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.meirinaldojunior.eporaqui_vactivit.cadastros.Cad_turista"
-            android:label="@string/title_activity_cad_turista"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
