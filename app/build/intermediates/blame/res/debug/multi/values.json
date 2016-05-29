@@ -371,7 +371,14 @@
                     "endOffset": 2227
                 },
                 "from": {
-                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/colors.xml"
+                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
                 }
             },
             {
@@ -383,7 +390,14 @@
                     "endOffset": 2274
                 },
                 "from": {
-                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/colors.xml"
+                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
                 }
             },
             {
@@ -2783,14 +2797,7 @@
                     "endOffset": 39004
                 },
                 "from": {
-                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 4,
-                        "startOffset": 16,
-                        "endColumn": 48,
-                        "endOffset": 60
-                    }
+                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2850,14 +2857,7 @@
                     "endOffset": 39495
                 },
                 "from": {
-                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 138,
-                        "endColumn": 66,
-                        "endOffset": 200
-                    }
+                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -2869,14 +2869,7 @@
                     "endOffset": 39568
                 },
                 "from": {
-                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 65,
-                        "endColumn": 72,
-                        "endOffset": 133
-                    }
+                    "file": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/values/strings.xml"
                 }
             },
             {

@@ -14,15 +14,15 @@ ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main
 		INJECTED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml
 		INJECTED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:6:5-78
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:7:5-75
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:7:5-76
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:7:22-73
 application
