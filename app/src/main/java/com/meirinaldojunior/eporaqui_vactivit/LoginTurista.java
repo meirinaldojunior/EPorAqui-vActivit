@@ -23,7 +23,7 @@ public class LoginTurista extends AppCompatActivity {
     }
 
 
-    public void chamarCadastro(View view){
+    public void chamarCadastroTur(View view){
         startActivity(new Intent(this, Cad_turista.class));
     }
 
