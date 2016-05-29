@@ -2,5 +2,6 @@
     <string name="app_name">É por aqui!</string>
     <string name="title_activity_login_turista">Área do Turista</string>
     <string name="title_activity_login_guia">Área do Guia</string>
+    <string name="title_activity_sobre">Sobre</string>
 
 </resources>

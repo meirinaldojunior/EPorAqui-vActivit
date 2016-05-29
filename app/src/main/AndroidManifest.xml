@@ -27,6 +27,10 @@
             android:name=".LoginGuia"
             android:label="@string/title_activity_login_guia"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Sobre"
+            android:label="@string/title_activity_sobre"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

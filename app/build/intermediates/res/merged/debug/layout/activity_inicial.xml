@@ -30,8 +30,7 @@
             android:layout_row="6"
             android:layout_column="6"
             android:onClick="ChamarGuia"
-            android:textAlignment="center"
-            />
+            android:textAlignment="center" />
 
         <ImageView
             android:layout_width="100dp"

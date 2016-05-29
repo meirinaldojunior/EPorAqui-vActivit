@@ -23,4 +23,10 @@ public class Inicial extends AppCompatActivity {
         startActivity(new Intent(this, LoginTurista.class));
 
     }
+
+    public void ChamarSobre(View view) {
+
+        startActivity(new Intent(this, LoginTurista.class));
+
+    }
 }

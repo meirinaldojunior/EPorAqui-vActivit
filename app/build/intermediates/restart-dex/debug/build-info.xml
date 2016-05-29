@@ -1,58 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="23"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
     format="7"
-    timestamp="60261420784828"
-    verifier="R_CLASS_CHANGE" >
+    timestamp="60366973982029" >
 
     <task
         name="javac"
-        duration="355" />
+        duration="319" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="82" />
+        duration="150" />
     <task
         name="verifier"
-        duration="14" />
+        duration="16" />
 
     <artifact
-        location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
+        location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="56366091210794" >
+    <build timestamp="60366973982029" >
         <artifact
             location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="60261420784828"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
