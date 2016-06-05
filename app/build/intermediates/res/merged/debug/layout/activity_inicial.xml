@@ -61,7 +61,7 @@
         <TextView
             android:layout_width="99dp"
             android:layout_height="fill_parent"
-            android:text="Guia"
+            android:text="Turista"
             android:id="@+id/textView2"
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
@@ -72,13 +72,14 @@
             android:textAlignment="center" />
     </GridLayout>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="sa"
-        android:id="@+id/button"
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/sobre"
         android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/gridLayout"
-        android:layout_alignEnd="@+id/gridLayout" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ChamarSobre" />
 
 </RelativeLayout>

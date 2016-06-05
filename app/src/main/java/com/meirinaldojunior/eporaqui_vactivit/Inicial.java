@@ -5,6 +5,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.meirinaldojunior.eporaqui_vactivit.areaTurista.areaTurista;
+
 public class Inicial extends AppCompatActivity {
 
     @Override
@@ -26,7 +28,7 @@ public class Inicial extends AppCompatActivity {
 
     public void ChamarSobre(View view) {
 
-        startActivity(new Intent(this, LoginTurista.class));
+        startActivity(new Intent(this, areaTurista.class));
 
     }
 }

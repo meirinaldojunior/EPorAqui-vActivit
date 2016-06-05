@@ -30,6 +30,14 @@
         <activity
             android:name=".Sobre"
             android:label="@string/title_activity_sobre"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".areaTurista.areaTurista"
+            android:label="@string/title_activity_area_turista"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".areaTurista.mapaGuias"
+            android:label="@string/title_activity_mapa_guias"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

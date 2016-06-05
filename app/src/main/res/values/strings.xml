@@ -3,5 +3,7 @@
     <string name="title_activity_login_turista">Área do Turista</string>
     <string name="title_activity_login_guia">Área do Guia</string>
     <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_area_turista">areaTurista</string>
+    <string name="title_activity_mapa_guias">mapaGuias</string>
 
 </resources>
