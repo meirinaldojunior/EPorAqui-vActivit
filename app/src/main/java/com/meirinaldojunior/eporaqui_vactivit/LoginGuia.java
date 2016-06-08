@@ -29,7 +29,7 @@ public class LoginGuia extends AppCompatActivity {
         webView.getSettings().setAllowFileAccess(true);
         webView.getSettings().setAppCacheEnabled(true);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("file:///android_asset/home_guia/inicial.php");
+        webView.loadUrl("file:///android_asset/loginCadastroGUIA/index.html");
 
 
         if (!isNetworkAvailable()) { // loading offline

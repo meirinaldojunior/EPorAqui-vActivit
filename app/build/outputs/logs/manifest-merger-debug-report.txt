@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:3:5-53
 		INJECTED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:7:22-73
 application
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:9:5-38:19
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:9:5-47:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
@@ -42,6 +42,7 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/meirinald
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 	android:label
@@ -93,13 +94,31 @@ ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:31:13-34
 activity#com.meirinaldojunior.eporaqui_vactivit.areaTurista.areaTurista
-ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:34:9-37:68
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:34:9-37:59
 	android:label
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:36:13-64
 	android:theme
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:37:13-56
 	android:name
 		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:35:13-52
+activity#com.meirinaldojunior.eporaqui_vactivit.areaTurista.mapaGuias
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:40:13-62
+	android:theme
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:39:13-50
+activity#com.meirinaldojunior.eporaqui_vactivit.Splash
+ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:42:9-46:63
+	android:label
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:45:13-58
+	android:configChanges
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:44:13-74
+	android:theme
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml:43:13-35
 uses-sdk
 INJECTED from /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
@@ -118,6 +137,7 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/meirinald
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] /home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary

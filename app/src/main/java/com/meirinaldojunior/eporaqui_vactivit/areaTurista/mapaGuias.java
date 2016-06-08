@@ -6,12 +6,13 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.webkit.JavascriptInterface;
 
 import com.meirinaldojunior.eporaqui_vactivit.R;
 
 public class mapaGuias extends AppCompatActivity {
 
-    @Override
+    @JavascriptInterface
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mapa_guias);

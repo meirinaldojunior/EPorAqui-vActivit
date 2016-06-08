@@ -42,6 +42,10 @@
             android:name="com.meirinaldojunior.eporaqui_vactivit.areaTurista.areaTurista"
             android:label="@string/title_activity_area_turista"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.areaTurista.mapaGuias"
+            android:label="@string/title_activity_mapa_guias"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
