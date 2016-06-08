@@ -36,7 +36,9 @@
             android:name=".areaTurista.mapaGuias"
             android:label="@string/title_activity_mapa_guias"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Splash">
+        <activity
+            android:name=".Splash"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

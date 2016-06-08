@@ -20,11 +20,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.meirinaldojunior.eporaqui_vactivit.Inicial" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.meirinaldojunior.eporaqui_vactivit.LoginTurista"
@@ -46,6 +41,15 @@
             android:name="com.meirinaldojunior.eporaqui_vactivit.areaTurista.mapaGuias"
             android:label="@string/title_activity_mapa_guias"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.Splash"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
