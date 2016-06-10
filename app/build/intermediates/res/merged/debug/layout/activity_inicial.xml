@@ -7,7 +7,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.meirinaldojunior.eporaqui_vactivit.Inicial">
+    tools:context="com.meirinaldojunior.eporaqui_vactivit.Inicial"
+    android:background="@drawable/menu_background"
+    >
 
     <GridLayout
         android:layout_width="match_parent"
@@ -17,13 +19,15 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/gridLayout">
+        android:id="@+id/gridLayout"
+
+        >
 
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:id="@+id/bt_guia"
-            android:src="@drawable/guia"
+            android:src="@drawable/bt1"
             android:layout_above="@+id/gridLayout"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
@@ -36,7 +40,7 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:id="@+id/imageView"
-            android:src="@drawable/turista"
+            android:src="@drawable/bt2"
             android:layout_above="@+id/gridLayout"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
@@ -56,7 +60,8 @@
             android:layout_row="7"
             android:layout_column="6"
             android:typeface="sans"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:textColor="#ffffff" />
 
         <TextView
             android:layout_width="99dp"
@@ -69,7 +74,8 @@
             android:layout_row="7"
             android:layout_column="8"
             android:typeface="sans"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:textColor="#ffffff" />
     </GridLayout>
 
     <ImageView
@@ -80,6 +86,9 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:onClick="ChamarSobre" />
+        android:onClick="ChamarSobre"
+        android:adjustViewBounds="false"
+        android:backgroundTint="#ffffff"
+        />
 
 </RelativeLayout>

@@ -20,6 +20,10 @@
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/menu_background.jpg",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/drawable/menu_background.jpg"
+    },
+    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/drawable/logo.png"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
@@ -64,12 +72,12 @@
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
@@ -80,12 +88,20 @@
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/bt1.png",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/drawable/bt1.png"
+    },
+    {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/backgroud.jpg",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/drawable/backgroud.jpg"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -98,6 +114,10 @@
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/bt2.png",
+        "source": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/src/main/res/drawable/bt2.png"
     },
     {
         "merged": "/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",

@@ -4,7 +4,7 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="6655552543927" >
+    timestamp="3291454957009" >
 
     <task
         name="javac"
@@ -23,10 +23,10 @@
         location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="6655552543927" >
+    <build timestamp="84067293649068" >
         <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

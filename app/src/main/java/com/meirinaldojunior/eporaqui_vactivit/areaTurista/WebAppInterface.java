@@ -29,9 +29,9 @@ public class WebAppInterface extends AppCompatActivity {
 
                 String packageName = "com.meirinaldojunior.eporaqui_vactivit.areaTurista";
                 try {
-                    mContext.startActivity(new Intent(WebAppInterface.this, areaTurista.class));
+                    //          mContext.startActivity(new Intent(WebAppInterface.this, areaTurista.class));
                 } catch (Exception ex) {
-                    Toast.makeText(mContext, "invalid activity name: " + areaTurista.class, Toast.LENGTH_SHORT).show();
+                    //        Toast.makeText(mContext, "invalid activity name: " + areaTurista.class, Toast.LENGTH_SHORT).show();
                 }
 
             }

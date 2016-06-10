@@ -288,6 +288,8 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_area_turista">areaTurista</string>
+    <string name="title_activity_enviar_foto_guia">EnviarFotoGuia</string>
+    <string name="title_activity_enviar_foto_turista">EnviarFotoTurista</string>
     <string name="title_activity_login_guia">Área do Guia</string>
     <string name="title_activity_login_turista">Área do Turista</string>
     <string name="title_activity_mapa_guias">mapaGuias</string>

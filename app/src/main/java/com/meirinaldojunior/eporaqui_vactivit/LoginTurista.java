@@ -25,6 +25,8 @@ public class LoginTurista extends AppCompatActivity {
         webView.getSettings().setAppCacheMaxSize(5 * 1024 * 1024); // 5MB
         webView.getSettings().setAppCachePath(getApplicationContext().getCacheDir().getAbsolutePath());
         webView.getSettings().setAllowFileAccess(true);
+        webView.getSettings().setAllowFileAccessFromFileURLs(true);
+        webView.getSettings().setAllowUniversalAccessFromFileURLs(true);
         webView.getSettings().setAppCacheEnabled(true);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.loadUrl("file:///android_asset/loginCadastroTURISTA/index.html");

@@ -11,15 +11,17 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
+        />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.meirinaldojunior.eporaqui_vactivit.Inicial" >
-        </activity>
+        <activity android:name="com.meirinaldojunior.eporaqui_vactivit.Inicial" />
         <activity
             android:name="com.meirinaldojunior.eporaqui_vactivit.LoginTurista"
             android:label="@string/title_activity_login_turista"
@@ -31,10 +33,6 @@
         <activity
             android:name="com.meirinaldojunior.eporaqui_vactivit.Sobre"
             android:label="@string/title_activity_sobre"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.meirinaldojunior.eporaqui_vactivit.areaTurista.areaTurista"
-            android:label="@string/title_activity_area_turista"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.meirinaldojunior.eporaqui_vactivit.areaTurista.mapaGuias"
@@ -49,6 +47,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.UpFotos.EnviarFotoGuia"
+            android:label="@string/title_activity_enviar_foto_guia"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.meirinaldojunior.eporaqui_vactivit.UpFotos.EnviarFotoTurista"
+            android:label="@string/title_activity_enviar_foto_turista"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

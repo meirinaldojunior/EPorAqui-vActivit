@@ -1,11 +1,10 @@
 package com.meirinaldojunior.eporaqui_vactivit;
 
+
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-
-import com.meirinaldojunior.eporaqui_vactivit.areaTurista.areaTurista;
 
 public class Inicial extends AppCompatActivity {
 
@@ -28,7 +27,7 @@ public class Inicial extends AppCompatActivity {
 
     public void ChamarSobre(View view) {
 
-        startActivity(new Intent(this, areaTurista.class));
+        startActivity(new Intent(this, Sobre.class));
 
     }
 }
