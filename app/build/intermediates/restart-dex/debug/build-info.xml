@@ -4,29 +4,29 @@
     api-level="19"
     density="xhdpi"
     format="7"
-    timestamp="3291454957009" >
+    timestamp="16675875824150" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="243" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="150" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
     <artifact
         location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="84067293649068" >
+    <build timestamp="16675875824150" >
         <artifact
-            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
+            location="/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

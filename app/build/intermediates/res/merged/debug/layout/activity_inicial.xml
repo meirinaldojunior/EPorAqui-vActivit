@@ -8,8 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.meirinaldojunior.eporaqui_vactivit.Inicial"
-    android:background="@drawable/menu_background"
-    >
+    android:background="@drawable/menu_background">
 
     <GridLayout
         android:layout_width="match_parent"
@@ -88,7 +87,6 @@
         android:layout_alignParentEnd="true"
         android:onClick="ChamarSobre"
         android:adjustViewBounds="false"
-        android:backgroundTint="#ffffff"
-        />
+        android:backgroundTint="#ffffff" />
 
 </RelativeLayout>
