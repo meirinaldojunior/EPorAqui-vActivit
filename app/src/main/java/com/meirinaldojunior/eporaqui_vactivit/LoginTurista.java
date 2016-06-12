@@ -22,6 +22,7 @@ import android.webkit.ConsoleMessage;
 import android.webkit.JavascriptInterface;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
+import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
@@ -64,6 +65,7 @@ public class LoginTurista extends AppCompatActivity {
         webView.getSettings().setAllowUniversalAccessFromFileURLs(true);
         webView.getSettings().setAppCacheEnabled(true);
         webView.getSettings().setJavaScriptEnabled(true);
+        webView.getSettings().setCacheMode(WebSettings.LOAD_DEFAULT);
         webView.loadUrl("file:///android_asset/loginCadastroTURISTA/index.html");
 
         webView.addJavascriptInterface(this, "android");
