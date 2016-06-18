@@ -184,6 +184,32 @@ public class LoginTurista extends AppCompatActivity {
     }
 
 
+    @JavascriptInterface
+    public void mensagemAlerta(String mensagem) {
+
+        //Cria o gerador do AlertDialog
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        //define o titulo
+        builder.setMessage(mensagem);
+        //define um botão como positivo
+        builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface arg0, int arg1) {
+
+
+            }
+        });
+        //cria o AlertDialog
+        alerta = builder.create();
+
+        //forçar usuário clicar ok
+        alerta.setCancelable(false);
+
+
+        //Exibe
+        alerta.show();
+    }
+
+
     public void semConexao() {
 
         //Cria o gerador do AlertDialog

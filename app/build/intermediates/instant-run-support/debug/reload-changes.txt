@@ -1,0 +1,11 @@
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginTurista$1$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginGuia$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginTurista$2$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginGuia$1$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginTurista$4$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginTurista$3$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginGuia$2$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginGuia$3$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginGuia$4$override.class
+CHANGED,/home/meirinaldo/AndroidStudioProjects/EPorAqui-vActivit/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/meirinaldojunior/eporaqui_vactivit/LoginTurista$override.class
